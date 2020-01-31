@@ -1,0 +1,3 @@
+Redis é um banco de dados que armazena os dados na forma de chave-valor. Podemos armazenar certos dados, que para serem obtidos em um banco sql, seria necessário varrer todo o banco, como por exemplo, saber o número de alunos cadastrados no Alura. Quando utilizamos o Redis, podemos definir uma chave associada a um valor(o número de alunos). Dessa forma podemos obter o valor de uma forma muito rápida.
+
+Os valores não precisam ser apenas números. Podem ser palavras, listas, conjuntos, entre outros. A medida que avançarmos no curso veremos alguns desses valor
