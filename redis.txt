@@ -1,3 +1,7 @@
 Redis é um banco de dados que armazena os dados na forma de chave-valor. Podemos armazenar certos dados, que para serem obtidos em um banco sql, seria necessário varrer todo o banco, como por exemplo, saber o número de alunos cadastrados no Alura. Quando utilizamos o Redis, podemos definir uma chave associada a um valor(o número de alunos). Dessa forma podemos obter o valor de uma forma muito rápida.
 
 Os valores não precisam ser apenas números. Podem ser palavras, listas, conjuntos, entre outros. A medida que avançarmos no curso veremos alguns desses valor
+
+Qual a importância de definir um padrão para o nome das nossas chaves?
+
+A importância de definir um padrão nos nomes das nossas chaves é que isso facilitará no momento em que estivermos fazendo buscas. Com um padrão é bem mais fácil buscar, por exemplo, os resultados da Mega-sena que ocorreram em um mês específico, ou em um ano específico, ou em um intervalo de dias.
