@@ -1,2 +1,3 @@
   Wire Frame, muito utilizado para quem quer esboçar UX Design;
   Um problema mais grave: caso entre um novo integrante na equipe e sua primeira tarefa é lidar com um novo sistema que cadastre receitas sugeridas pelos clientes. E esse novo sistema da empresa faz uso da informação do CPF dos usuários. O novo integrante terá dificuldade em validar o CPF;
+  Essas variáveis nós chamamos de atributos ou características de um objeto, comparativamente, elas são similares às especificações da planta de uma casa: se terá quatro quartos, uma sala, um banheiro. No caso de uma conta bancária, seus atributos seriam agência, conta, titular. Esses atributos podem ser chamados de campo ou propriedade;
